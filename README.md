@@ -1,4 +1,4 @@
-# fonctions javascript diverses
-Ensemble de fonctions javascript non liées à un projet spécifiques.
-Sauf mention contraire dans un sous-dossier, disponibles sous licence GPL v3
+# divers scripts javascript
+Ensemble de scripts javascript non liées à un projet spécifiques.
+Disponibles sous licence GPL v3, sans aucune garantie sur leur bon fonctionnement
 https://www.gnu.org/copyleft/gpl.html
